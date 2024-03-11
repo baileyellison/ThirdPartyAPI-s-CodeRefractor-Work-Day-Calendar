@@ -14,7 +14,7 @@ The application uses prompted save buttons to allow the user to save important e
 
 Screenshot of Deployed Application:
 
-[![Deployed-Application.png]()]
+[![Deployed-Screenshot-of-Calendar.png](https://i.postimg.cc/52f5HQWX/Deployed-Screenshot-of-Calendar.png)](https://postimg.cc/dLSZp11F)
 
 
 ##Deployed Link: https://baileyellison.github.io/ThirdPartyAPI-s-CodeRefractor-Work-Day-Calendar/
