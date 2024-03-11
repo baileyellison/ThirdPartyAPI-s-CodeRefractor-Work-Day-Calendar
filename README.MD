@@ -17,7 +17,7 @@ Screenshot of Deployed Application:
 [![Deployed-Screenshot-of-Calendar.png](https://i.postimg.cc/52f5HQWX/Deployed-Screenshot-of-Calendar.png)](https://postimg.cc/dLSZp11F)
 
 
-##Deployed Link: https://baileyellison.github.io/ThirdPartyAPI-s-CodeRefractor-Work-Day-Calendar/
+## Deployed Link: https://baileyellison.github.io/ThirdPartyAPI-s-CodeRefractor-Work-Day-Calendar/
 
 
 ## Credits
