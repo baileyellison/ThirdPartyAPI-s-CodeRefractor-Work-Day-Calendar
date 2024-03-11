@@ -14,7 +14,7 @@ The application uses prompted save buttons to allow the user to save important e
 
 Screenshot of Deployed Application:
 
-[![Deployed-Application.png](/Users/baileyellison/Class-repo/GitLab/UNC-VIRT-FSF-PT-01-2024-U-LOLC/05-Third-Party-APIs/02-Challenge/ThirdPartyAPI-s-CodeRefractor-Work-Day-Calendar/Assets/Deployed Screenshot of Calendar.png)]
+[![Deployed-Application.png]()]
 
 
 ##Deployed Link: 
